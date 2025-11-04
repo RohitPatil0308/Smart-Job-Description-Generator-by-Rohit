@@ -1,0 +1,5 @@
+{
+  "name": "Smart Job Description Generator by Rohit",
+  "description": "An AI HR assistant that generates professional job descriptions for LinkedIn postings based on job title, skills, and experience.",
+  "requestFramePermissions": []
+}
